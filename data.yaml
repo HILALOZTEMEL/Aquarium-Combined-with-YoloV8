@@ -1,0 +1,11 @@
+path: 
+
+
+train: /Aquarium-Combined/train/
+val: /Aquarium-Combined/valid/
+test: 
+
+nc: 7
+
+
+names: ['fish','jellyfish','penguin','puffin','shark','starfish','stingray']
